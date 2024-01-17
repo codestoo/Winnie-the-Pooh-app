@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Winnie the Pooh",
+    "image": " ../images/6254006745_f5fb07804b_o.jpg ",
+    "species": "Bear",
+    "occupation": "Honey enthusiast",
+    "introduction": "A lovable bear with a passion for honey.",
+    "description": "       "
+  },
+  {
+    "name": "Piglet",
+    "image": " ../images/6254538732_0a6f8deb8e_o.jpg ",
+    "species": "Pig",
+    "occupation": "Small animal",
+    "introduction": "A timid and kind-hearted pig who is always eager to help.",
+    "description": ""
+  },
+  {
+    "name": "Eeyore",
+    "image": " ../images/6254008137_0ca53114c6_o.jpg ",
+    "species": "Donkey",
+    "occupation": "Gloomy friend",
+    "introduction": "A melancholic donkey who often loses his tail but remains good-natured.",
+    "description": ""
+  },
+  {
+    "name": "Tigger",
+    "image": "../images/6254538392_6361700cd0_o.jpg ",
+    "species": "Tiger",
+    "occupation": "Bouncy friend",
+    "introduction": "An energetic and bouncy tiger with a love for bouncing on his tail.",
+    "description": ""
+  },
+  {
+    "name": "Roo",
+    "image": "../images/6254007911_264c0fda21_o.jpg ",
+    "species": "Kangaroo",
+    "occupation": "Adventurous joey",
+    "introduction": "A young kangaroo full of energy and curiosity.",
+    "description": ""
+  },
+  {
+    "name": "Owl",
+    "image": "../images/6254539044_8963fe5332_o.jpg ",
+    "species": "Owl",
+    "occupation": "Curious Fellow",
+    "introduction": "A wise fellow who loves books and hooing.",
+    "description": ""
+  },
+  {
+    "name": "Rabbit",
+    "image": "../images/6254627058_bf88bcc176_o.jpg",
+    "species": "Rabbit",
+    "occupation": "Frantic Worrier",
+    "introduction": "Always looking out for his Pooh Bear friend.",
+    "description": ""
+  }
+]
