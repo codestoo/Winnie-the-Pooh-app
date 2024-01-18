@@ -21,7 +21,7 @@ function Home() {
           src="../images/50553227108_6bbe219845_k.jpg"
         />
         <img
-          className="me-4"
+          className="me md-5"
           style={{ width: "22vw" }}
           src="../images/50554093777_9515b6941a_k.jpg "
         />
