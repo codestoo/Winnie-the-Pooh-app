@@ -4,3 +4,17 @@
   font-family: Sans-Serif;
   text-align: center;
 }
+
+.width85{
+  width: 85%;
+}∏
+
+.quoteContainer{
+  width: 75%;
+}
+
+@media only screen and (max-width: 768px){
+  .quoteContainer{
+    width: 100%;
+  }
+}
